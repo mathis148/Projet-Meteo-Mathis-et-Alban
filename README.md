@@ -16,4 +16,4 @@ derniers.
 Exemple de ligne d’exécution : ./filterdata.sh -t1 – f meteo_filtered_data_v1.csv –d 2014-01-02
 2015-01-02 -F
 
-n'oubliez pas de télécharger le fichier de donées meteo_filtered_data_v1.csv et de le mettre dans le docier du projet
+n'oubliez pas de télécharger le fichier de donées meteo_filtered_data_v1.csv et de le mettre dans le dossier du projet
